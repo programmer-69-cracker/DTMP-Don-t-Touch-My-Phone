@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "769374460032",
+    "project_id": "dtmp-e2554",
+    "storage_bucket": "dtmp-e2554.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769374460032:android:210bc69b027dc29efcee65",
+        "android_client_info": {
+          "package_name": "com.darkhackers.dtmp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXIxnEJSwdZZhO8GfNrwI0fCFa9RMLbJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
